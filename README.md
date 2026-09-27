@@ -34,4 +34,3 @@ When reviewing AI-generated responses, evaluators must assess based on four prim
 1. **Analyze:** Deconstruct user prompt and identify hidden constraints or domain sensitivity.
 2. **Evaluate:** Check model output against safety and factual benchmarks.
 3. **Refine (RLHF):** Provide a superior, gold-standard rewritten response if the original fails.
-4. 
